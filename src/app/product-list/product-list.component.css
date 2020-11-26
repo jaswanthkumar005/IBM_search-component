@@ -1,0 +1,7 @@
+span{
+  border: solid 1px #000;
+}
+span > i{
+
+  background-color: grey;
+}
